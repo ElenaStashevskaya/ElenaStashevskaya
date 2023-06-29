@@ -6,8 +6,8 @@
   <a href="https://t.me/Elena_Stashev">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
   </a>
-  <a href="lenastashevskaya@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=plastic" alt="Youtube Badge"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lenastashevskaya@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=plastic" alt="gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ElenaStashevskaya&style=plastic&color=blue" alt=""/>
   <h1>
