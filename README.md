@@ -28,9 +28,8 @@
  - Помимо платформы Яндекс.Практикум изучала курсы по тестированию на stepik.org, youtube.com
  - Мною были изучены: С.Куликов "Тестирование программного обеспечения. Базовый курс.", ISTQB CTFL  Syllabus 2018 RU, C.Канер "Тестирование программного обеспечения"
  - <a href="https://hh.ru/resume/8c89ace4ff0be663a20039ed1f7a5677314879">Ссылка на резюме</a>
- - <a href="https://docs.google.com/spreadsheets/d/1TRj6rlmVSTBsfBipSDpI--QSCuTasQXfEUwtNWqYzyI/edit?usp=sharing">Примеры использования техник КЭ/ГЗ для тестирования текстовых полей</a>
- - <a href="https://tms.devexplab.ru/projects/6-sprint-tc/testcases">Примеры офрмления ТК в тестировании моб. приложения</a>
- - <a href="https://tracker.yandex.ru/pages/projects/1127/issues">Примеры офрмления БР в тестировании веб-приложения</a>
+ - <a href="https://docs.google.com/spreadsheets/d/1YjUxFF63SVTqaRMBStPLJO2sZ91fVKRb/edit?usp=sharing&ouid=118393443117622837748&rtpof=true&sd=true">Примеры оформления тестовой документации</a>
+
  
 ---
 ### Следующие инструменты знакомы мне на базовом уровне:
